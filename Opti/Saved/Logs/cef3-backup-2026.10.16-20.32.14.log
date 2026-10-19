@@ -1,0 +1,15 @@
+[6888:25020:1016/131259.698:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[6888:540:1016/131259.989:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[6888:25020:1016/131300.117:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[17528:12004:1016/131313.591:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-1A76E702159C59EC41CD712C6AB6B27F will be ignored
+[6888:25020:1016/131425.965:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[6888:25020:1016/131430.966:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[6888:25020:1016/131435.978:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[6888:25020:1016/134329.865:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[6888:25020:1016/134631.002:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[6888:4388:1016/140450.426:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[10304:3096:1016/140621.383:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[10304:3096:1016/140622.088:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[10304:3096:1016/140634.386:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[10304:3096:1016/140642.724:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[6888:25020:1016/143214.961:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0

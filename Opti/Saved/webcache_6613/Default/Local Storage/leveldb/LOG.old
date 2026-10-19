@@ -1,3 +1,13 @@
-2026/09/13-21:53:12.725 7030 Reusing MANIFEST C:\Users\jfco_\Downloads\Opti (2)\Opti\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
-2026/09/13-21:53:12.740 7030 Recovering log #6
-2026/09/13-21:53:12.749 7030 Reusing old log C:\Users\jfco_\Downloads\Opti (2)\Opti\Saved\webcache_6613\Default\Local Storage\leveldb/000006.log 
+2026/10/19-11:14:38.878 3ca0 Reusing MANIFEST C:\Users\jfco_\Downloads\Opti (2)\Optimizacion(Terror)\Opti\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
+2026/10/19-11:14:38.894 3ca0 Recovering log #10
+2026/10/19-11:14:38.894 3ca0 Level-0 table #12: started
+2026/10/19-11:14:38.904 3ca0 Level-0 table #12: 64713 bytes OK
+2026/10/19-11:14:38.911 3ca0 Delete type=0 #10
+2026/10/19-11:14:38.915 ebc Compacting 4@0 + 0@1 files
+2026/10/19-11:14:38.945 ebc Generated table #14@0: 10 keys, 32735 bytes
+2026/10/19-11:14:38.946 ebc Compacted 4@0 + 0@1 files => 32735 bytes
+2026/10/19-11:14:38.946 ebc compacted to: files[ 0 1 0 0 0 0 0 ]
+2026/10/19-11:14:38.947 ebc Delete type=2 #3
+2026/10/19-11:14:38.947 ebc Delete type=2 #7
+2026/10/19-11:14:38.947 ebc Delete type=2 #9
+2026/10/19-11:14:38.948 ebc Delete type=2 #12

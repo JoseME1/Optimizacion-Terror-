@@ -1,0 +1,111 @@
+[17620:6352:1017/113336.333:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[17620:23268:1017/113336.439:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[17620:6352:1017/113336.472:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[23008:22752:1017/113406.219:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-E9203C10E4463E3B33FDCCA0EAF869F9 will be ignored
+[22808:22496:1017/113408.230:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[17620:23468:1017/113408.343:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[22808:22496:1017/113408.951:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[22808:22496:1017/113420.613:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[22808:22496:1017/113432.290:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[17620:6352:1017/113620.143:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[17620:6352:1017/121917.111:ERROR:device_event_log_impl.cc(196)] [12:19:16.804] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[17620:23468:1017/122545.910:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00007B64001B2540}, {new_limit=26})
+[17620:23468:1017/122547.908:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00007B64001B2540}, {new_limit=27})
+[17620:23468:1017/122548.909:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00007B64001B2540}, {new_limit=26})
+[22808:22496:1017/122550.911:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://optimizationguide-pa.googleapis.com/v1:GetModels?key=dummytoken
+[22808:22496:1017/122550.932:VERBOSE1:tls_handshaker.cc(105)] TlsClient: Continuing handshake
+[22808:22496:1017/122550.933:VERBOSE1:tls_handshaker.cc(126)] TlsClient: SSL_do_handshake returned when entering early data. After retry, rv=-1, SSL_in_early_data=1
+[22808:22496:1017/122550.952:VERBOSE1:tls_handshaker.cc(105)] TlsClient: Continuing handshake
+[22808:22496:1017/122550.952:VERBOSE1:tls_handshaker.cc(105)] TlsClient: Continuing handshake
+[22808:22496:1017/122550.953:VERBOSE1:tls_client_handshaker.cc(528)] Client: handshake finished
+[17620:6352:1017/122552.660:VERBOSE1:device_event_log_impl.cc(198)] [12:25:52.659] Display: EVENT: screen_win.cc:893 Displays updated, count: 1
+[17620:6352:1017/122552.660:VERBOSE1:device_event_log_impl.cc(198)] [12:25:52.660] Display: EVENT: screen_win.cc:895 Display[2858950754] bounds=[0,0 1440x810], workarea=[0,0 1440x762], scale=2, rotation=0, panel_rotation=0 external detected
+[17620:23468:1017/122554.841:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00007B64001B2540}, {new_limit=25})
+[17620:23468:1017/122556.851:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00007B64001B2540}, {new_limit=24})
+[17620:23468:1017/122559.839:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00007B64001B2540}, {new_limit=23})
+[17620:23468:1017/122601.852:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00007B64001B2540}, {new_limit=22})
+[17620:23468:1017/122602.841:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00007B64001B2540}, {new_limit=21})
+[17620:23468:1017/122603.864:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00007B64001B2540}, {new_limit=22})
+[17620:23468:1017/122622.867:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00007B64001B2540}, {new_limit=23})
+[17620:23468:1017/122625.855:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00007B64001B2540}, {new_limit=24})
+[17620:23468:1017/122627.872:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00007B64001B2540}, {new_limit=25})
+[17620:23468:1017/122628.873:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00007B64001B2540}, {new_limit=24})
+[17620:23468:1017/122630.863:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00007B64001B2540}, {new_limit=25})
+[17620:23468:1017/122632.867:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00007B64001B2540}, {new_limit=24})
+[22808:22496:1017/122639.686:VERBOSE1:logging_network_change_observer.cc(90)] Observed a change to the network IP addresses
+[22808:22496:1017/122640.706:VERBOSE1:logging_network_change_observer.cc(100)] Observed a change to network connectivity state CONNECTION_UNKNOWN
+[17620:23468:1017/122640.921:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00007B64001B2540}, {new_limit=23})
+[22808:22496:1017/122641.217:VERBOSE1:logging_network_change_observer.cc(113)] Observed a network change to state CONNECTION_NONE
+[22808:22496:1017/122641.217:VERBOSE1:logging_network_change_observer.cc(113)] Observed a network change to state CONNECTION_UNKNOWN
+[22808:22496:1017/122641.697:VERBOSE1:configured_proxy_resolution_service.cc(1162)] Failed configuring with PAC script, falling-back to manual proxy servers.
+[22808:22496:1017/122641.697:VERBOSE1:configured_proxy_resolution_service.cc(1162)] Failed configuring with PAC script, falling-back to manual proxy servers.
+[22808:22496:1017/122641.698:VERBOSE1:configured_proxy_resolution_service.cc(1162)] Failed configuring with PAC script, falling-back to manual proxy servers.
+[22808:22496:1017/122642.275:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: http://192.168.100.50:8008/ssdp/device-desc.xml
+[22808:22496:1017/122642.276:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: http://192.168.100.96:60000/dd.xml
+[17620:23468:1017/122644.322:VERBOSE1:mdns_client_impl.cc(201)] Sockets ready:4
+[17620:6352:1017/122644.358:VERBOSE1:service_discovery_device_lister.cc(54)] OnServiceUpdated: service_type: _googlecast._tcp.local, service_name: , update: 3
+[17620:6352:1017/122644.358:VERBOSE1:service_discovery_device_lister.cc(42)] DiscoverNewDevices: service_type: _googlecast._tcp.local
+[17620:6352:1017/122644.358:VERBOSE1:service_discovery_device_lister.cc(42)] DiscoverNewDevices: service_type: _googlecast._tcp.local
+[17620:6352:1017/122644.391:VERBOSE1:service_discovery_device_lister.cc(54)] OnServiceUpdated: service_type: _googlecast._tcp.local, service_name: BeyondTV-284fd4957d8d03757bdbad21e5b0c946._googlecast._tcp.local, update: 0
+[17620:6352:1017/122644.391:VERBOSE1:service_discovery_device_lister.cc(75)] Adding resolver for service_name: BeyondTV-284fd4957d8d03757bdbad21e5b0c946._googlecast._tcp.local
+[17620:6352:1017/122644.403:VERBOSE1:service_discovery_device_lister.cc(91)] OnResolveComplete: service_type: _googlecast._tcp.local, service_name: BeyondTV-284fd4957d8d03757bdbad21e5b0c946._googlecast._tcp.local, status: 0
+[17620:23468:1017/122652.889:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00007B64001B2540}, {new_limit=24})
+[17620:23468:1017/122657.148:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00007B64001B2540}, {new_limit=25})
+[17620:23468:1017/122657.878:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00007B64001B2540}, {new_limit=23})
+[22808:22496:1017/122658.183:VERBOSE1:logging_network_change_observer.cc(90)] Observed a change to the network IP addresses
+[17620:23468:1017/122658.900:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00007B64001B2540}, {new_limit=22})
+[22808:22496:1017/122659.200:VERBOSE1:logging_network_change_observer.cc(100)] Observed a change to network connectivity state CONNECTION_UNKNOWN
+[22808:22496:1017/122659.706:VERBOSE1:logging_network_change_observer.cc(113)] Observed a network change to state CONNECTION_NONE
+[22808:22496:1017/122659.706:VERBOSE1:logging_network_change_observer.cc(113)] Observed a network change to state CONNECTION_UNKNOWN
+[17620:23468:1017/122659.894:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00007B64001B2540}, {new_limit=21})
+[22808:22496:1017/122700.195:VERBOSE1:configured_proxy_resolution_service.cc(1162)] Failed configuring with PAC script, falling-back to manual proxy servers.
+[22808:22496:1017/122700.195:VERBOSE1:configured_proxy_resolution_service.cc(1162)] Failed configuring with PAC script, falling-back to manual proxy servers.
+[22808:22496:1017/122700.195:VERBOSE1:configured_proxy_resolution_service.cc(1162)] Failed configuring with PAC script, falling-back to manual proxy servers.
+[22808:22496:1017/122700.757:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: http://192.168.100.96:60000/dd.xml
+[22808:22496:1017/122700.759:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: http://192.168.100.50:8008/ssdp/device-desc.xml
+[17620:23468:1017/122701.898:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00007B64001B2540}, {new_limit=20})
+[17620:23468:1017/122702.783:VERBOSE1:mdns_client_impl.cc(201)] Sockets ready:4
+[17620:6352:1017/122702.806:VERBOSE1:service_discovery_device_lister.cc(54)] OnServiceUpdated: service_type: _googlecast._tcp.local, service_name: , update: 3
+[17620:6352:1017/122702.806:VERBOSE1:service_discovery_device_lister.cc(42)] DiscoverNewDevices: service_type: _googlecast._tcp.local
+[17620:6352:1017/122702.806:VERBOSE1:service_discovery_device_lister.cc(42)] DiscoverNewDevices: service_type: _googlecast._tcp.local
+[17620:6352:1017/122702.829:VERBOSE1:service_discovery_device_lister.cc(54)] OnServiceUpdated: service_type: _googlecast._tcp.local, service_name: BeyondTV-284fd4957d8d03757bdbad21e5b0c946._googlecast._tcp.local, update: 0
+[17620:6352:1017/122702.829:VERBOSE1:service_discovery_device_lister.cc(75)] Adding resolver for service_name: BeyondTV-284fd4957d8d03757bdbad21e5b0c946._googlecast._tcp.local
+[17620:6352:1017/122703.153:VERBOSE1:service_discovery_device_lister.cc(91)] OnResolveComplete: service_type: _googlecast._tcp.local, service_name: BeyondTV-284fd4957d8d03757bdbad21e5b0c946._googlecast._tcp.local, status: 0
+[17620:23468:1017/122708.152:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00007B64001B2540}, {new_limit=21})
+[17620:23468:1017/122709.151:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00007B64001B2540}, {new_limit=23})
+[17620:23468:1017/122710.151:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00007B64001B2540}, {new_limit=24})
+[17620:23468:1017/122712.152:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00007B64001B2540}, {new_limit=25})
+[17620:23468:1017/122715.153:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00007B64001B2540}, {new_limit=26})
+[17620:6352:1017/122722.937:VERBOSE1:device_event_log_impl.cc(198)] [12:27:22.936] Display: EVENT: screen_win.cc:893 Displays updated, count: 1
+[17620:6352:1017/122722.937:VERBOSE1:device_event_log_impl.cc(198)] [12:27:22.936] Display: EVENT: screen_win.cc:895 Display[2858950754] bounds=[0,0 1440x810], workarea=[0,0 1440x762], scale=2, rotation=0, panel_rotation=0 external detected
+[17620:23468:1017/122724.903:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00007B64001B2540}, {new_limit=25})
+[17620:23468:1017/122726.904:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00007B64001B2540}, {new_limit=24})
+[17620:23468:1017/122729.916:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00007B64001B2540}, {new_limit=23})
+[17620:23468:1017/122734.903:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00007B64001B2540}, {new_limit=24})
+[17620:23468:1017/122736.905:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00007B64001B2540}, {new_limit=25})
+[17620:23468:1017/122739.908:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00007B64001B2540}, {new_limit=26})
+[17620:23468:1017/122745.913:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00007B64001B2540}, {new_limit=25})
+[17620:23468:1017/122752.929:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00007B64001B2540}, {new_limit=24})
+[17620:23468:1017/122805.936:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00007B64001B2540}, {new_limit=25})
+[17620:23468:1017/122810.938:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00007B64001B2540}, {new_limit=26})
+[17620:23468:1017/122811.947:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00007B64001B2540}, {new_limit=25})
+[17620:23468:1017/122815.937:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00007B64001B2540}, {new_limit=24})
+[22808:22496:1017/122822.945:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://optimizationguide-pa.googleapis.com/v1:GetModels?key=dummytoken
+[22808:22496:1017/122822.967:VERBOSE1:tls_handshaker.cc(105)] TlsClient: Continuing handshake
+[22808:22496:1017/122822.968:VERBOSE1:tls_handshaker.cc(126)] TlsClient: SSL_do_handshake returned when entering early data. After retry, rv=-1, SSL_in_early_data=1
+[22808:22496:1017/122822.986:VERBOSE1:tls_handshaker.cc(105)] TlsClient: Continuing handshake
+[22808:22496:1017/122822.986:VERBOSE1:tls_handshaker.cc(105)] TlsClient: Continuing handshake
+[22808:22496:1017/122822.986:VERBOSE1:tls_client_handshaker.cc(528)] Client: handshake finished
+[17620:23468:1017/122823.944:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00007B64001B2540}, {new_limit=25})
+[17620:23468:1017/122826.944:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00007B64001B2540}, {new_limit=26})
+[17620:23468:1017/122828.953:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00007B64001B2540}, {new_limit=25})
+[17620:23468:1017/122832.946:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00007B64001B2540}, {new_limit=24})
+[17620:23468:1017/122836.940:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00007B64001B2540}, {new_limit=23})
+[17620:23468:1017/122838.937:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00007B64001B2540}, {new_limit=24})
+[17620:23468:1017/122847.957:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00007B64001B2540}, {new_limit=23})
+[17620:23468:1017/122853.952:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00007B64001B2540}, {new_limit=22})
+[17620:6352:1017/122903.838:VERBOSE1:device_event_log_impl.cc(198)] [12:29:03.837] Display: EVENT: screen_win.cc:893 Displays updated, count: 1
+[17620:6352:1017/122903.838:VERBOSE1:device_event_log_impl.cc(198)] [12:29:03.837] Display: EVENT: screen_win.cc:895 Display[2858950754] bounds=[0,0 1440x810], workarea=[0,0 1440x762], scale=2, rotation=0, panel_rotation=0 external detected
+[23120:22748:1017/122920.256:ERROR:angle_platform_impl.cc(44)] Renderer11.cpp:2280 (virtual rx::Renderer11::testDeviceLost): The D3D11 device was removed, HRESULT: 0x887A0007
+[23120:22748:1017/122920.258:ERROR:shared_context_state.cc(1244)] SharedContextState context lost via ARB/EXT_robustness. Reset status = GL_UNKNOWN_CONTEXT_RESET_KHR
+[23120:22748:1017/122920.259:ERROR:gpu_service_impl.cc(1164)] Exiting GPU process because some drivers can't recover from errors. GPU process will restart shortly.

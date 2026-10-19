@@ -1,12 +1,7 @@
-[25832:21032:0914/125447.976:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[25832:25172:0914/125448.242:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
-[25832:21032:0914/125448.363:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[25832:21032:0914/125500.047:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[28896:15808:0914/125501.919:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-8D5188742A9473F9765CF2929BC18810 will be ignored
-[25832:21032:0914/125504.919:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[25832:21032:0914/125514.920:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[25832:21032:0914/125535.786:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[25832:21032:0914/125550.815:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[25832:21032:0914/125646.851:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[25832:21032:0914/125913.878:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[25832:21032:0914/130115.402:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+[24204:22012:1019/153339.253:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[24204:13524:1019/153339.378:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[24204:22012:1019/153339.394:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[12756:13876:1019/153350.143:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-87B3D29764DA962270AF74B4A1660597 will be ignored
+[24204:22012:1019/154112.273:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[24204:22012:1019/154619.053:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[24204:22012:1019/154809.634:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
