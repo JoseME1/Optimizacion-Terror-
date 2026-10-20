@@ -1,13 +1,2 @@
-2026/10/19-11:14:38.878 3ca0 Reusing MANIFEST C:\Users\jfco_\Downloads\Opti (2)\Optimizacion(Terror)\Opti\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
-2026/10/19-11:14:38.894 3ca0 Recovering log #10
-2026/10/19-11:14:38.894 3ca0 Level-0 table #12: started
-2026/10/19-11:14:38.904 3ca0 Level-0 table #12: 64713 bytes OK
-2026/10/19-11:14:38.911 3ca0 Delete type=0 #10
-2026/10/19-11:14:38.915 ebc Compacting 4@0 + 0@1 files
-2026/10/19-11:14:38.945 ebc Generated table #14@0: 10 keys, 32735 bytes
-2026/10/19-11:14:38.946 ebc Compacted 4@0 + 0@1 files => 32735 bytes
-2026/10/19-11:14:38.946 ebc compacted to: files[ 0 1 0 0 0 0 0 ]
-2026/10/19-11:14:38.947 ebc Delete type=2 #3
-2026/10/19-11:14:38.947 ebc Delete type=2 #7
-2026/10/19-11:14:38.947 ebc Delete type=2 #9
-2026/10/19-11:14:38.948 ebc Delete type=2 #12
+2026/10/20-11:36:06.663 2fbc Creating DB C:\Users\PC\Documents\Optimizacion-Terror-\Opti\Saved\webcache_6613\Default\Local Storage\leveldb since it was missing.
+2026/10/20-11:36:06.690 2fbc Reusing MANIFEST C:\Users\PC\Documents\Optimizacion-Terror-\Opti\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001

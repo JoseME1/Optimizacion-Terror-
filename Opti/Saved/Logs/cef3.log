@@ -1,7 +1,14 @@
-[24204:22012:1019/153339.253:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[24204:13524:1019/153339.378:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
-[24204:22012:1019/153339.394:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[12756:13876:1019/153350.143:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-87B3D29764DA962270AF74B4A1660597 will be ignored
-[24204:22012:1019/154112.273:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[24204:22012:1019/154619.053:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[24204:22012:1019/154809.634:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+[3084:27300:1020/114522.896:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[3084:27516:1020/114522.924:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[3084:27300:1020/114522.942:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[3084:7688:1020/114525.573:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\PC\Documents\Optimizacion-Terror-\Opti\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\PC\Documents\Optimizacion-Terror-\Opti\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[3084:7688:1020/114525.577:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\PC\Documents\Optimizacion-Terror-\Opti\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\PC\Documents\Optimizacion-Terror-\Opti\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[3084:7688:1020/114525.580:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\PC\Documents\Optimizacion-Terror-\Opti\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\PC\Documents\Optimizacion-Terror-\Opti\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[3084:7688:1020/114525.582:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\PC\Documents\Optimizacion-Terror-\Opti\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\PC\Documents\Optimizacion-Terror-\Opti\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[3084:3220:1020/114525.994:WARNING:value_store_frontend.cc(47)] Reading ahfgeienlihckogmohjhadlkjgocpleb.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[3084:3220:1020/114525.996:WARNING:value_store_frontend.cc(47)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[4588:2052:1020/114527.507:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-EF0736987A1B434BA1D1C39F86095A9F will be ignored
+[3084:33892:1020/114529.329:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[3084:27300:1020/114811.059:ERROR:device_event_log_impl.cc(196)] [11:48:11.057] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: No se ha encontrado el elemento. (0x490)
+[3084:27300:1020/120837.056:ERROR:device_event_log_impl.cc(196)] [12:08:36.729] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: No se ha encontrado el elemento. (0x490)
+[3084:27300:1020/132608.557:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.

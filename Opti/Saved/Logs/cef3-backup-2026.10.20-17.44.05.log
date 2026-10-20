@@ -1,0 +1,16 @@
+[28192:36736:1020/113606.399:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[28192:36736:1020/113606.447:ERROR:os_crypt_win.cc(100)] Failed to decrypt: Clave no válida para utilizar en el estado especificado. (0x8009000B)
+[28192:24988:1020/113606.479:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[28192:36736:1020/113606.537:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[28192:20392:1020/113610.962:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\PC\Documents\Optimizacion-Terror-\Opti\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\PC\Documents\Optimizacion-Terror-\Opti\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[28192:20392:1020/113610.967:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\PC\Documents\Optimizacion-Terror-\Opti\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\PC\Documents\Optimizacion-Terror-\Opti\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[28192:20392:1020/113610.969:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\PC\Documents\Optimizacion-Terror-\Opti\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\PC\Documents\Optimizacion-Terror-\Opti\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[28192:20392:1020/113610.973:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\PC\Documents\Optimizacion-Terror-\Opti\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\PC\Documents\Optimizacion-Terror-\Opti\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[2112:25912:1020/113611.676:ERROR:backend_impl.cc(989)] Critical error found -8
+[28192:30128:1020/113611.694:WARNING:value_store_frontend.cc(47)] Reading ahfgeienlihckogmohjhadlkjgocpleb.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[28192:30128:1020/113611.703:WARNING:value_store_frontend.cc(47)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[2112:25912:1020/113611.826:WARNING:storage_block-inl.h(138)] Failed data load.
+[2112:25912:1020/113611.826:WARNING:storage_block-inl.h(138)] Failed data load.
+[2112:25912:1020/113611.826:ERROR:entry_impl.cc(955)] Failed to save user data
+[28192:32752:1020/113614.993:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[28192:36736:1020/114405.922:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
