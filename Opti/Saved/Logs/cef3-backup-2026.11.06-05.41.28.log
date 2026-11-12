@@ -1,35 +1,0 @@
-[2188:16096:1105/230541.641:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[2188:22632:1105/230541.795:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
-[2188:16096:1105/230541.843:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[2188:15572:1105/230549.119:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\jfco_\Downloads\Opti (2)\Optimizacion-Terror2\Opti\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\jfco_\Downloads\Opti (2)\Optimizacion-Terror2\Opti\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[2188:15572:1105/230549.122:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\jfco_\Downloads\Opti (2)\Optimizacion-Terror2\Opti\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\jfco_\Downloads\Opti (2)\Optimizacion-Terror2\Opti\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[2188:15572:1105/230549.125:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\jfco_\Downloads\Opti (2)\Optimizacion-Terror2\Opti\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\jfco_\Downloads\Opti (2)\Optimizacion-Terror2\Opti\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[2188:15572:1105/230549.127:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\jfco_\Downloads\Opti (2)\Optimizacion-Terror2\Opti\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\jfco_\Downloads\Opti (2)\Optimizacion-Terror2\Opti\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[2188:4308:1105/230552.810:WARNING:value_store_frontend.cc(47)] Reading ahfgeienlihckogmohjhadlkjgocpleb.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[2188:4308:1105/230552.812:WARNING:value_store_frontend.cc(47)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[14696:10472:1105/230553.811:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-725680148B50B66C16991475495225A8 will be ignored
-[21492:25548:1105/230556.739:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
-[21492:11756:1105/230556.816:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
-[21492:11756:1105/230556.816:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
-[21492:11756:1105/230556.817:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
-[2188:14376:1105/230558.139:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,5]
-[2188:16096:1105/230558.476:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,5]
-[2188:16096:1105/230558.476:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,5]
-[2188:16096:1105/230558.476:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,5]
-[2188:16096:1105/230558.476:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,5]
-[2188:14376:1105/230558.801:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,5]
-[12732:21992:1105/230600.131:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
-[12732:16700:1105/230600.191:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
-[12732:16700:1105/230600.191:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
-[12732:16700:1105/230600.191:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
-[12732:21992:1105/230607.193:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
-[12732:21992:1105/230607.202:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
-[12732:16700:1105/230607.208:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
-[12732:16700:1105/230607.208:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
-[12732:16700:1105/230607.208:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
-[24324:14560:1105/230815.821:VERBOSE1:video_capture_oracle.cc(91)] Capture size auto-throttling is now enabled.
-[24324:14560:1105/230815.823:VERBOSE1:video_capture_oracle.cc(120)] Capture size auto-throttling is now disabled.
-[24324:14560:1105/230815.823:VERBOSE1:capture_resolution_chooser.cc(205)] Recomputed snapped frame sizes: 2x2
-[24324:14560:1105/230815.823:VERBOSE1:capture_resolution_chooser.cc(157)] Recomputed capture size from 640x360 to 2x2 (100% of ideal size)
-[24324:14560:1105/230816.442:VERBOSE1:capture_resolution_chooser.cc(205)] Recomputed snapped frame sizes: 2x2
-[2188:16096:1105/234128.130:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.

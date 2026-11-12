@@ -1,18 +1,0 @@
-[2440:10544:1106/121928.437:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[2440:20092:1106/121928.578:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
-[2440:10544:1106/121928.603:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[2440:5492:1106/121936.655:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\jfco_\Downloads\Opti (2)\Optimizacion-Terror2\Opti\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\jfco_\Downloads\Opti (2)\Optimizacion-Terror2\Opti\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[2440:5492:1106/121936.658:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\jfco_\Downloads\Opti (2)\Optimizacion-Terror2\Opti\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\jfco_\Downloads\Opti (2)\Optimizacion-Terror2\Opti\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[2440:5492:1106/121936.660:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\jfco_\Downloads\Opti (2)\Optimizacion-Terror2\Opti\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\jfco_\Downloads\Opti (2)\Optimizacion-Terror2\Opti\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[2440:5492:1106/121936.662:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\jfco_\Downloads\Opti (2)\Optimizacion-Terror2\Opti\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\jfco_\Downloads\Opti (2)\Optimizacion-Terror2\Opti\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[2440:10756:1106/121947.939:WARNING:value_store_frontend.cc(47)] Reading ahfgeienlihckogmohjhadlkjgocpleb.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[2440:10756:1106/121947.940:WARNING:value_store_frontend.cc(47)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[22280:7512:1106/121949.265:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-0729AC7FDED5C3ED556A24435F36CD76 will be ignored
-[2660:4160:1106/152945.412:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
-[2440:7180:1106/152945.675:ERROR:cast_crl.cc(443)] CRL - Verification failed.
-[2660:4160:1106/152946.071:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -107
-[2660:4160:1106/153002.140:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
-[2660:4160:1106/153014.405:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -107
-[2440:10544:1106/163610.985:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[2440:10544:1106/163616.156:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[2440:10544:1106/164652.981:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
